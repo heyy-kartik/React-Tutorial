@@ -2,10 +2,9 @@ import React from 'react'
 import './App.css'
 function App() {
 
-  const parent = React.createElement(
-    "div" , { id: "parent"},
+ 
     
-  )
+  
 
   return (
     <>
